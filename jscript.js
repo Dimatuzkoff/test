@@ -121,9 +121,6 @@ console.log(student);
 
 
 
-
-// student.addFriends('Dmytro');
-//
 //
 // // student.friends.sort((a,b) => a.name-b.name);
 // //
