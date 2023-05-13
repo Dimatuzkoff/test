@@ -122,24 +122,6 @@ console.log(student);
 
 
 
-//
-// let student = {
-//   name: 'Dima',
-//   surname: 'Tuzkov',
-//   friends:[{name: 'Anna', surname: 'Alaksa',
-//   friends: [{name: 'Rnna', surname: 'Ilaksa'}]},{name: 'Oleg', surname: 'Tiko',
-//   friends: [{name: 'Rnna', surname: 'Ilaksa'}]},{name: 'Vova', surname: 'Tarasuk',
-//   friends: [{name: 'Rnna', surname: 'Ilaksa'}]},{name: 'Igor', surname: 'Alaksarte',
-//   friends: [{name: 'Rnna', surname: 'Ilaksa'}]},{name: 'Sasha', surname: 'Petrov',
-//   friends: []}],
-//   addFriends : function addFriends(n){
-//
-//
-//     student.friends.push({name: n});
-//   }
-// };
-//
-//
 // student.addFriends('Dmytro');
 //
 //
